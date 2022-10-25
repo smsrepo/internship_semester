@@ -7,3 +7,4 @@ It has following files:
   2) power pont sildes based on which I gave presenstation at my University
   3) C# code file for one of the task that I completed at the company
   4) FlowChart Diagram of C# code
+  5) Internship completion certificate from the company
